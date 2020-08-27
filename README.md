@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I am Tino.
 
-<!--
-**TinoCalamia/TinoCalamia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+After starting my business career I quickly pivoted into Data Science. My interest in data, statistics and computer science led me to N26 which is Europe's biggest online bank.
 
-Here are some ideas to get you started:
+I started my M.Sc. in Big Data & Business Analytics in March 2020 and started since then to share my professional and academic knowledge as speaker on various meetups and events.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* My Tech Stack: Python, SQL, Docker, AWS, Jenkins, Kibana, DataDog
+
+* What I do? --> Credit Risk @N26 
+
+* What I am looking for? --> Scientific exchange
+
+* Favourite Food? Pasta🍝
